@@ -1,0 +1,23 @@
+div{
+    height: 300px;
+    width: 300px;
+   background-color: orange;
+   /* thickness type color */
+   border: 3px solid black;
+   border: 2px dotted red;
+   border: 2px dashed yellow;
+   /* margin -> space outside the box */
+   margin-bottom: 30px;
+   margin: 20px;
+   margin: 50px 100px;
+   /* padding -> space inside the box */
+   padding-right: 50px;
+   padding: 30px;
+   /* border-radius: 50%; */
+}
+
+span{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
