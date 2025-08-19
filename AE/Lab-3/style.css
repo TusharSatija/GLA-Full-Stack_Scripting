@@ -1,0 +1,12 @@
+/* tag selector */
+div{
+    color: red;
+}   
+/* id selector */
+#box{
+    color: aqua;
+}
+/* class selector */
+.mybox{
+    color: orange;
+}

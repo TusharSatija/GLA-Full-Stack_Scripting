@@ -1,0 +1,20 @@
+/* div{
+    color: aqua;
+} */
+/* child combinator */
+section>div{
+    color: yellow;
+}
+
+/* decendent combinator */
+article div{
+    color: orange;
+}
+/* adjecent sibling */
+section+div{
+    color: red;
+}
+/* general sibling */
+section~div{
+    color: blue;
+}

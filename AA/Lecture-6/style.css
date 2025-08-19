@@ -1,0 +1,40 @@
+section{
+    border: 2px solid black;
+    height: 200vh;
+}
+div{
+
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+    background-color: orange;
+}
+
+#box{
+    position: sticky;
+    position: relative;
+    position: fixed;
+    position: absolute;
+    top: 212px;
+    /* right: 50px; */
+    left: 212px;
+    background-color: yellow;
+}
+
+#box-1{
+    position: absolute;
+    top: 415px;
+    left: 10px;
+}
+
+#box-2{
+    position: absolute;
+    top: 415px;
+    left:415px;
+}
+#box-3{
+    position: absolute;
+    top: 10px;
+    left: 415px;
+}

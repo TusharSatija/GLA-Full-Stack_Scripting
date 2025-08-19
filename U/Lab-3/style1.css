@@ -1,0 +1,16 @@
+/* child combintor */
+/* section>div{
+    color: red;
+} */
+/* decendent combinator */
+article div{
+    color: blue;
+}
+/* sibling combinator */
+section+div{
+    color: yellow;
+}
+/* general sibling combinator */
+section~div{
+    color: orange;
+}

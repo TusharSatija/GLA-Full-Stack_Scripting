@@ -1,0 +1,9 @@
+span{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+    padding: 100px;
+    border: 2px solid black;
+}
+

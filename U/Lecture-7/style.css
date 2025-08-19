@@ -1,0 +1,20 @@
+section{
+    border: 3px solid red;
+    height:200vh;
+}
+div{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 3px solid blue;
+    background-color: orange;
+}
+#box{
+    position: absolute;
+    position: relative;
+    position: fixed;
+    top: 40px;
+    right: 50px;
+    /* left: 50px; */
+    background-color:blueviolet;
+}
