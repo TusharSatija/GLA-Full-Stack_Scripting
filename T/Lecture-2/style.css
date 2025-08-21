@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    /* thickness  type color */
+    border: 2px solid black;
+    border: 3px dotted red;
+    border: 2px dashed yellow;
+    background-color: orange;
+}
+
+article{
+    color: blue;
+}

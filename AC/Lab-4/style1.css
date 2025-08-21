@@ -1,0 +1,22 @@
+article{
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    border: 3px solid black;
+    /* horizontal change */
+    justify-content: center;
+    justify-content: end;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    /* vertical change */
+    align-items: center;
+    align-items: end;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border: 2px solid yellow;
+}

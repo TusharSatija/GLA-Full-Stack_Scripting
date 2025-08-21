@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 2px solid black;
+}
+
+div:hover{
+    border-radius: 50%;
+    background-color: blue;
+}
+
+a{
+    color: green;
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color: red;
+}
+
+p::first-letter{
+    font-size: 80px;
+}
+
+p::first-line{
+    font-style: italic;
+}
