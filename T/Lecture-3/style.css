@@ -1,0 +1,17 @@
+/* tag selector */
+div{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    color: red;
+}
+
+/* id selector */
+#box{
+    background-color: orange;
+}
+
+/* id selector */
+.abc{
+    background-color: blue;
+}
