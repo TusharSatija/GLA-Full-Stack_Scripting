@@ -1,0 +1,25 @@
+section{
+    border:2px solid black;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    /* margin-bottom: 50px; */
+    margin: 50px;
+    margin: 20px 100px;
+    padding-right: 100px;
+    padding: 10px;
+    border: 2px solid yellow;
+    background-color: blue;
+}
+
+span{
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+    padding: 80px;
+    display: inline-block;
+    border: 2px solid yellow;
+    background-color: blue;
+}

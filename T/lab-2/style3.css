@@ -1,0 +1,14 @@
+div{
+    display:  inline-block;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(244, 181, 181);
+    border: 2px solid yellow;
+}
+
+
+#box1{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}

@@ -1,0 +1,27 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 2px solid red;
+}
+div:hover{
+    border-radius: 50%;
+    background-color: yellow;
+}
+a{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+
+p::first-letter{
+    font-size: 80px;
+}
+
+p::first-line{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

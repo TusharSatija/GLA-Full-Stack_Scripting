@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    /* flex-direction: column; */
+    height: 500px;
+    border: 2px solid black;
+    /* horizontally change */
+    justify-content: center;
+    justify-content: end;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    align-items: end;
+    align-items: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    background-color: lightblue;
+}
