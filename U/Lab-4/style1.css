@@ -1,0 +1,14 @@
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-columns: 300px 200px  500px;
+    /* grid-template-columns: repeat(10,1fr); */
+    border: 2px solid black;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 2px solid yellow;
+}

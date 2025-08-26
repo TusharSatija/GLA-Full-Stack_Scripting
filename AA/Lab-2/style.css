@@ -1,0 +1,21 @@
+article{
+    display: flex;
+    height: 600px;
+    border: 3px solid black;
+    justify-content: center;
+    justify-content: end;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
+    align-items: end;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid yellow;
+    background-color: blue;
+}
