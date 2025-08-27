@@ -1,0 +1,15 @@
+section{
+    background-color: lightgreen;
+    display: grid;
+    grid-template-columns: 2fr 3fr 4fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 300px 200px 500px 100px;
+    border: 2px solid black;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color:blueviolet;
+    border: 2px solid yellow;
+}
