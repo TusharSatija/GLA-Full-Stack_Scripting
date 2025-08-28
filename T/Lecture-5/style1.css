@@ -1,0 +1,13 @@
+section{
+    border: 2px solid red;
+    display:  flex;
+    justify-content: space-around;
+    background-color: black;
+}
+div{
+    color: white;
+    font-size: 40px;
+}
+section:hover{
+    flex-direction: column;
+}

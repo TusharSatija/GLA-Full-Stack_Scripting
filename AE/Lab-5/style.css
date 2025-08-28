@@ -1,0 +1,32 @@
+section{
+    padding-left: 10px;
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+article{
+    background-color: lightgoldenrodyellow;
+    margin: 40px auto;
+    width: 280px; 
+}
+div{
+    font-size: 40px;
+    border-radius: 7px;
+    text-align: center; 
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    color: black;
+}
+
+div:hover{
+    color: black;
+    background-color: white;
+}
+input{
+    border-radius: 5px;
+    width: 275px;
+    height: 3rem;
+}
