@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    list-style: none;
+    font-size: 60px;
+}
+
+@media screen and (max-width:900px) {
+    ul{
+        flex-direction: column;
+    }
+}
