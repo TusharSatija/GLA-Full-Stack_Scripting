@@ -1,0 +1,43 @@
+.first{
+    position:absolute;
+    top: 335px;
+    left: 93px;
+    height: 90px;
+    width: 90px;
+}
+
+.car{ 
+    animation-name: car;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-delay: 0ms;
+    margin: 200px auto;
+}
+.second{
+    position: absolute;
+    top: 340px;
+    left: 372px;
+    height: 85px;
+    width: 85px;
+}
+
+.wheel{
+    animation-name: rotate;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-delay: 0ms;
+}
+
+@keyframes rotate {
+    0%{
+        transform: translateX(700px) rotate(720deg);
+    }
+}
+
+@keyframes car {
+    0%{
+        transform: translateX(700px) translateY(10px);
+    }
+}
