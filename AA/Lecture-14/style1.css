@@ -1,0 +1,13 @@
+ul{
+    display:  flex;
+    justify-content:space-around;
+    font-size: 30px;
+    list-style: none;
+}
+
+@media screen and (max-width:700px){
+    ul{
+        align-items: center;
+        flex-direction: column;
+    }
+}

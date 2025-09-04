@@ -1,0 +1,14 @@
+article{
+    margin: 20px 40px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article img{
+    width: 100%;
+}

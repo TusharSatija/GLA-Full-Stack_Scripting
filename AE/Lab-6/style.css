@@ -1,0 +1,17 @@
+section>article{
+    padding: 20px;
+    width: 400px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+section{
+    display: flex;
+}
+img{
+    width: 100%;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
