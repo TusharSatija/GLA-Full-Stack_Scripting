@@ -1,0 +1,14 @@
+let a=10;
+console.log(typeof(a));    
+a=12.33;
+console.log(typeof(a));   
+a=1.2334343;
+console.log(typeof(a));   
+a=3942384;
+console.log(typeof(a));   
+a=394584908;
+console.log(typeof(a));  
+a="b";
+console.log(typeof(a));
+a=true;
+console.log(typeof(a));
