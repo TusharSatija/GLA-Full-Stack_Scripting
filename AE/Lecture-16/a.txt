@@ -1,0 +1,6 @@
+download node js
+
+Enviroment variable set
+
+
+node -v  
