@@ -1,0 +1,42 @@
+nav{
+    background-image: url("https://www.w3schools.com/w3images/photographer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+
+ul{
+    position: relative;
+    top: 350px;
+    left: 650px;
+    border:3px solid white;
+    width: 280px;
+}
+ul li{  
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    list-style: none;
+    color: white;
+}
+
+
+form{
+    background-color: lightgrey;
+    border: 2px solid black;
+    width: 90vw;
+    margin: 2px auto;
+    padding: 40px;
+}
+form>h1{
+    text-align: center;
+}
+form>input{
+    height: 40px;
+    width: 80vw;
+}
+button{
+    font-size: 20px;
+    height: 40px;
+    width: 80vw;
+}

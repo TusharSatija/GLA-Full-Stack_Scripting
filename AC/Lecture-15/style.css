@@ -1,0 +1,35 @@
+nav{
+    background-image: url("https://www.w3schools.com/w3images/photographer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+
+ul{
+    position: relative;
+    top: 400px;
+    left: 700px;
+    border: 3px solid white;
+    width: 350px;
+}
+
+ul li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+div{ 
+    width: 315px;
+    margin: -20px auto;
+}
+div>button{
+    height: 40px;
+    width: 100px;
+}
+button a{
+    font: 30px;
+    text-decoration: none;
+    color: black;
+}

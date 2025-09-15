@@ -1,0 +1,38 @@
+nav{
+    background-image: url("https://www.w3schools.com/w3images/photographer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+ul { 
+    position: relative;
+    left: 700px;
+    top: 400px;
+    width: 280px;
+    border: 3px solid white;
+}
+ul li{
+    color: white;
+    font-size: 30px;
+    list-style: none;
+    text-align: center;
+}
+
+div{ 
+    background-color: lightgrey;
+    border: 3px solid black;
+    width: 311px;
+    margin: -20px auto;
+}
+div>button{ 
+    height: 46px;
+    width: 101px;
+}
+
+button a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    margin: 0 px auto;
+}
